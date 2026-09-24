@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Электронные_Часы2 {
+public class Electronical_Watches2 {
     public static void main(String[] args) {
         Scanner vvod = new Scanner(System.in);
         int n = vvod.nextInt();

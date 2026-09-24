@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Следующее_Чётное {
+public class Next_Even {
     public static void main(String[] args) {
         Scanner vvod = new Scanner(System.in);
         int a = vvod.nextInt();
