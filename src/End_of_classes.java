@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Конец_Уроков {
+public class End_of_classes {
     public static void main(String[] args) {
         Scanner vvod = new Scanner(System.in);
         int n = vvod.nextInt();

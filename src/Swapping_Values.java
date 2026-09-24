@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Обмен_Значений {
+public class Swapping_Values {
     public static void main(String[] args) {
         Scanner vvod = new Scanner(System.in);
         int a = vvod.nextInt();

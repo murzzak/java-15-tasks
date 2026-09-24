@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Стоимость_Покупки {
+public class Purchase_Cost {
     public static void main(String[] args) {
         Scanner vvod = new Scanner(System.in);
         int a = vvod.nextInt();
